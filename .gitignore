@@ -1,0 +1,9 @@
+dispatcher
+ingester
+processor
+reporter
+.dispatcher.pid
+logs/
+output/
+report/
+*.Zone.Identifier
